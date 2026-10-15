@@ -1,0 +1,28 @@
+---
+title: Proyectos
+description: Desarrollo web, computación científica, investigación aplicada y gestión
+  de procesos.
+toc: false
+body-classes: listing-page
+page-layout: full
+listing:
+  contents:
+  - lif-web/index.qmd
+  - metodos-numericos-qm/index.qmd
+  - precalculo/index.qmd
+  - termografia-yolov5/index.qmd
+  - kerr/index.qmd
+  - procesos-urbanismo/index.qmd
+  - voluminosos-pudahuel/index.qmd
+  template: listing.ejs.md
+  fields:
+  - image
+  - title
+  - description
+  - categories
+  sort: false
+  sort-ui: false
+  filter-ui: false
+---
+
+Una selección de proyectos que conectan programación, física, educación y gestión de procesos. Cada ficha presenta su contexto, mi participación y los materiales disponibles.

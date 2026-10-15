@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "assets/**"
+    - "downloads/**"
+  render:
+    - "*.qmd"
+    - "projects/**/*.qmd"
+    - "teaching/**/*.qmd"
+
+lang: es
+
+website:
+  title: "Nicolás Ulloa Gatica"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: projects/index.qmd
+        text: Proyectos
+      - href: trayectoria.qmd
+        text: Trayectoria
+      - href: teaching/index.qmd
+        text: Docencia y recursos
+      - href: contacto.qmd
+        text: Contacto
+  page-footer:
+    left:
+      - href: trayectoria.qmd
+        text: Trayectoria
+      - href: contacto.qmd
+        text: Contacto
+
+format:
+  html:
+    html-math-method: plain
+    grid:
+      body-width: 920px
+    theme:
+      - cosmo
+      - styles/theme.scss
+      - styles/layout.scss
+      - styles/components.scss

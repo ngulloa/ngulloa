@@ -1,0 +1,53 @@
+---
+title: Métodos numéricos para mecánica cuántica
+description: Guías e implementaciones en Python de Prüfer y Shooting para aproximar
+  valores propios en intervalos finitos.
+categories:
+- Computación científica
+- Educación
+toc: false
+image: ../../assets/proyectos/metodos-numericos/prufer-mapa-te.svg
+image-alt: Gráfico del mapa T(E) de Prüfer para potencial nulo en [-2, 2].
+---
+
+Desarrollé un recurso pedagógico que conecta la explicación matemática de los métodos de Prüfer y Shooting con implementaciones en Python. El proyecto muestra cómo aproximar valores propios de la ecuación de Schrödinger simplificada en un intervalo finito, a partir de un potencial conocido. Fue realizado con la orientación del profesor Rafael Benguria Donoso, quien figura como profesor en las guías del repositorio.
+
+## Contexto y objetivo
+
+Recurso académico realizado con orientación del profesor Rafael Benguria Donoso. Las guías acreditan a Nicolás Ulloa Gatica como estudiante y a Rafael Benguria Donoso como profesor.
+
+Conectar la explicación matemática con implementaciones para explorar valores propios de una ecuación de Schrödinger simplificada.
+
+## Mi aporte
+
+Desarrollo de guías e implementaciones pedagógicas en Python.
+
+## Herramientas
+
+Python, NumPy, Matplotlib.
+
+## Resultado
+
+Dos guías PDF, dos programas y gráficos de una ejecución documentada de los originales.
+
+## Imágenes del proyecto
+
+![Mapa T(E) del programa original de Prüfer para potencial nulo en [-2, 2]. El eje conserva un desfase de +0,1 entre la energía evaluada y la etiquetada.](../../assets/proyectos/metodos-numericos/prufer-mapa-te.svg){fig-alt="Gráfico creciente del mapa T(E), obtenido con el programa original de Prüfer para potencial nulo en [-2, 2]; el eje conserva un desfase de +0,1."}
+
+![Función objetivo f(E) de Shooting para potencial nulo en [0, 1]. Con aproximación inicial E = 40, el programa obtiene una raíz cercana a 39,4729.](../../assets/proyectos/metodos-numericos/shooting-funcion-objetivo.svg){fig-alt="Gráfico de la función objetivo de Shooting en [0, 1] con una raíz aproximada en E igual a 39,4729."}
+
+## Alcance de los gráficos
+
+- Las figuras representan T(E) y f(E), respectivamente; no son funciones de onda.
+- La energía pertenece a la ecuación simplificada y no está expresada en electronvoltios.
+- Los intervalos de ambos programas son distintos, por lo que sus energías no se comparan directamente.
+- Los gráficos conservan el algoritmo original; el desfase de Prüfer y la tolerancia del residual de Shooting limitan las conclusiones de precisión.
+
+## Guías originales
+
+- [Descargar guía de Prüfer](../../downloads/metodos-numericos/metodo_de_prufer.pdf).
+- [Descargar guía de Shooting](../../downloads/metodos-numericos/metodo_de_shooting.pdf).
+
+## Enlaces
+
+- [Repositorio](https://github.com/ngulloa/metodos_numericos_qm).

@@ -1,0 +1,19 @@
+{
+  "scale": 10,
+  "skills": {
+    "Python": 7,
+    "SQL": 5,
+    "C": 3,
+    "Kotlin": 3,
+    "R": 4,
+    "WordPress": 6,
+    "PHP": 5,
+    "GitHub": 4,
+    "Fusion360": 5,
+    "Odoo": 4,
+    "Git": 3,
+    "CSS": 4,
+    "HTML": 5
+  },
+  "english": "B2"
+}

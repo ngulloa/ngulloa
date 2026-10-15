@@ -1,0 +1,29 @@
+---
+title: Visión por computación en imágenes térmicas
+description: Colaboración interdisciplinaria para apoyar el reconocimiento y etiquetado
+  de regiones faciales con YOLOv5.
+categories:
+- Investigación aplicada
+- Inteligencia artificial
+toc: false
+---
+
+En el LIF trabajé con un equipo interdisciplinario e internacional integrado por profesionales de ingeniería de software, ingeniería biomédica y psicología. Participé en el entrenamiento de un modelo basado en YOLOv5 para reconocer patrones o regiones faciales en imágenes térmicas y apoyar su etiquetado. Esta automatización contribuyó al desarrollo de una investigación sobre variaciones térmicas faciales en condiciones de estudio menos restrictivas.
+
+## Contexto y objetivo
+
+LIF, UC; equipo interdisciplinario e internacional con profesionales de ingeniería de software, ingeniería biomédica y psicología.
+
+Apoyar el reconocimiento y etiquetado de regiones faciales en imágenes térmicas.
+
+## Mi aporte
+
+Participación en el entrenamiento de un modelo YOLOv5 para apoyar el etiquetado.
+
+## Herramientas
+
+YOLOv5.
+
+## Resultado
+
+Según mi estimación, la automatización ahorró al menos tres meses de trabajo manual de etiquetado.

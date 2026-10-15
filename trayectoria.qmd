@@ -1,0 +1,49 @@
+---
+title: Trayectoria
+description: Experiencia, formación y habilidades de Nicolás Ulloa Gatica.
+toc: true
+---
+
+Mi formación combina Ciencias de la Ingeniería, física y sistemas de información. Desarrollo software y sitios web, colaboro en proyectos de investigación y creo recursos educativos.
+
+## Experiencia
+
+### Asistente técnico y programador · LIF, UC
+
+A octubre de 2026, cuento con tres años de colaboración como asistente técnico y programador en el Laboratorio de Lenguaje, Interacción y Fenomenología de la Pontificia Universidad Católica de Chile, trabajando con equipos interdisciplinarios.
+
+Proyectos relacionados: [sitio institucional del LIF](projects/lif-web/index.qmd) y [visión por computación en imágenes térmicas](projects/termografia-yolov5/index.qmd).
+
+### Desarrollo de software y sitios web
+
+Desarrollo software para gestión de procesos y soluciones de backend y frontend. También construyo sitios en WordPress, incluyendo landing pages y comercio electrónico, y trabajo en inteligencia artificial, visión por computación y reconocimiento de imágenes.
+
+### Física y gestión de procesos
+
+He participado en un [proyecto semestral sobre el efecto Kerr](projects/kerr/index.qmd), en la [mejora de procesos de urbanismo municipal](projects/procesos-urbanismo/index.qmd) y en una [propuesta de modelación para retiro de voluminosos en Pudahuel](projects/voluminosos-pudahuel/index.qmd).
+
+## Participación estudiantil
+
+Participé durante un año en la organización del capítulo estudiantil SIAM-PUC, colaborando en la redacción de estatutos y su funcionamiento junto a otros cuatro compañeros. Me desempeñé como tesorero en una de sus directivas.
+
+SIAM corresponde a Society for Industrial and Applied Mathematics. El cargo figura en el [historial del capítulo](https://sites.google.com/uc.cl/capitulosiampuc/acerca).
+
+## Formación
+
+Estudiante de la Pontificia Universidad Católica de Chile, en vías de titulación como Ingeniero Civil en Computación. Mi formación en Ciencias de la Ingeniería combina física y sistemas de información.
+
+## Habilidades
+
+| Ámbito | Herramientas y experiencia |
+| --- | --- |
+| Lenguajes principales | Python, SQL |
+| Desarrollo y datos | Django, PostgreSQL, backend y frontend |
+| Desarrollo web | WordPress, Quarto |
+| Colaboración | Git, GitHub |
+| IA e imágenes | YOLOv5, visión por computación y reconocimiento de imágenes |
+| Electrónica y prototipado | Arduino y programación de ESP32 |
+| Conocimientos complementarios | C y Kotlin, con menor experiencia |
+
+## Docencia
+
+Realizo clases de apoyo universitario en matemática, física, computación y programación. Consulta mis [recursos educativos](teaching/index.qmd).

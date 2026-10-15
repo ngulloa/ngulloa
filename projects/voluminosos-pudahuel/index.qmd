@@ -1,0 +1,28 @@
+---
+title: Modelación para retiro de voluminosos en Pudahuel
+description: Propuesta de modelación lineal para evaluar alternativas de mejora del
+  retiro municipal de residuos voluminosos.
+categories:
+- Optimización aplicada
+toc: false
+---
+
+Trabajé en un proyecto con la Municipalidad de Pudahuel para diseñar y evaluar alternativas de mejora del retiro de residuos voluminosos. La propuesta abordó la complejidad del proceso mediante modelación lineal y un enfoque de optimización.
+
+## Contexto y objetivo
+
+Proyecto con la Municipalidad de Pudahuel.
+
+Diseñar y evaluar alternativas de mejora para el retiro de residuos voluminosos.
+
+## Mi aporte
+
+Participación en la propuesta de modelación y evaluación de alternativas.
+
+## Herramientas
+
+Modelación lineal, Optimización.
+
+## Resultado
+
+Propuesta de modelación lineal orientada a mejorar el proceso de retiro.

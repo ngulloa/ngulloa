@@ -1,0 +1,21 @@
+# Entorno y verificación
+
+Integración realizada el 12 de octubre de 2026 con Quarto 1.10.18. `quarto render` generó las 12 páginas en `_site/` sin errores. La salida generada no se edita ni versiona.
+
+La auditoría del HTML generado comprobó 12 páginas, enlaces y recursos locales existentes, texto alternativo en todas las imágenes y ausencia de las páginas de demostración en la búsqueda. Las dos guías PDF y `search.json` respondieron HTTP 200 tanto en la salida local como bajo un prefijo `/ngulloa/` simulado. Los enlaces externos publicados se comprobaron por HTTP; el historial SIAM enlazado respondió 200. El enlace alternativo del IMC UC devolvió 403 desde este entorno y se retiró del texto público.
+
+El navegador integrado de esta sesión no estuvo disponible (`agent.browsers.list()` devolvió una lista vacía). Por ello no se pudo completar ni acreditar la inspección visual a 360, 390, 768, 1024, 1280, 1440 y 1920 px, ni las pruebas interactivas de teclado, búsqueda, zoom y movimiento reducido. Los estilos y el HTML se revisaron estáticamente, pero esa revisión no reemplaza las comprobaciones de navegador antes de publicar.
+
+## Iteración de recursos v2 — 14 de octubre de 2026
+
+Quarto 1.10.18 renderizó las 13 páginas completas sin errores. El navegador integrado no tenía sesiones disponibles; la validación se hizo con Brave/Chromium local mediante Playwright temporal fuera del repositorio, sin dependencias nuevas del sitio.
+
+Se comprobaron las 13 páginas a 320, 375, 768, 1024, 1280 y 1440 px, además de texto al 200% a 320 y 1280 px (104 combinaciones). No hubo scroll horizontal de página, imágenes rotas ni errores JavaScript. Se inspeccionaron capturas de Inicio, Contacto, Proyectos y Dinámica en los seis anchos. El retrato desktop mide 160 × 160 px; el bloque contiguo, aproximadamente 169 px de alto, con inicio coincidente y diferencia inferior de 9 px. La columna mide aproximadamente 422 px a 1280 y 475 px a 1440. Se corrigieron el reflujo de palabras, el footer, los wrappers de descargas y la altura de la superficie de Contacto; este último ajuste recibió una comprobación adicional en los seis anchos y con texto al 200%.
+
+La auditoría del HTML verifica un h1 por página, alt en imágenes, trece habilidades con diez segmentos y los valores exactos del inventario. Las siete entradas del Listing contienen exclusivamente un enlace en el título, categorías sin onclick y ninguna columna metadata vacía. Dinámica tiene exactamente cuatro grupos (5/6/3/4), dieciocho documentos y dieciocho atributos download, con rutas de ver y descargar coincidentes. Los 18 originales y su salida publicada coinciden en bytes y SHA-256 con `datos/dinamica.json`. Las 64 rutas locales de páginas y recursos enlazados respondieron HTTP 200 bajo `/ngulloa/`; la búsqueda incluye Dinámica. También se probaron búsqueda interactiva, descarga real de `vectores.pdf`, menú móvil, foco de teclado de 3 px y movimiento reducido.
+
+Contrastes calculados con luminancia sRGB: azul acero sobre los fondos usados, 6,59–7,34:1; turquesa sobre superficie, 8,83:1; texto secundario sobre superficie, 9,06:1; borde de segmentos inactivos sobre su fondo, 3,73:1. Los enlaces mantienen subrayado y los controles propios, foco visible. La cobertura de navegador corresponde a Chromium; no se probaron Safari ni Firefox.
+
+Archivos nuevos: `projects/listing.ejs.md`, `teaching/dinamica/index.qmd`, `datos/habilidades.json`, `datos/dinamica.json`, `assets/ui/inglaterra-pixel.svg`, `assets/perfil/contacto-avatar.webp`, `assets/dinamica/formulas-dinamica.webp` y los 18 PDF normalizados de `downloads/dinamica/`. Solo se copiaron los recursos utilizados. Los paquetes de insumos, referencias, scripts de QA y capturas no se publican. Las capturas y verificadores temporales quedaron fuera del repositorio, en `/tmp/ngulloa-qa/`.
+
+El repositorio empezó sin commits y con sus fuentes no versionadas; `git diff` estaba vacío por ese motivo. Se revisaron las diferencias contra una copia inicial de las fuentes editadas, además de `git diff --check` y `git status`. No se agregaron archivos al índice, no se hizo commit ni push, y `_site/` y `.quarto/` siguen ignorados y sin archivos versionados. `_quarto.yml`, las siete fichas y el flujo de despliegue se conservaron.

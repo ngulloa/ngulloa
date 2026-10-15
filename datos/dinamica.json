@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Vectores",
+    "group": "Fundamentos y cinemática",
+    "file": "downloads/dinamica/vectores.pdf",
+    "preview": "assets/dinamica/vectores.webp",
+    "original": "Vectores.pdf",
+    "pages": 4,
+    "bytes": 215976,
+    "sha256": "e13cf467302bbae3cc03a6930511e506e153140bfe018721318fe6c4b27d2f2e"
+  },
+  {
+    "title": "Fundamentos de cinemática",
+    "group": "Fundamentos y cinemática",
+    "file": "downloads/dinamica/fundamentos-de-cinematica.pdf",
+    "preview": "assets/dinamica/fundamentos-de-cinematica.webp",
+    "original": "Fundamentos_de_Cinématica.pdf",
+    "pages": 2,
+    "bytes": 109357,
+    "sha256": "a6423529a04b2816ce7aaf69747fd916bba06aca2c969d417b3533f680780a54"
+  },
+  {
+    "title": "Cinemática en dos dimensiones",
+    "group": "Fundamentos y cinemática",
+    "file": "downloads/dinamica/cinematica-2d.pdf",
+    "preview": "assets/dinamica/cinematica-2d.webp",
+    "original": "Cinemática_2D.pdf",
+    "pages": 2,
+    "bytes": 112271,
+    "sha256": "d2f116623c99ef4815ec1cfe816e280ec7b0800edd9dd4322e17dc8767556322"
+  },
+  {
+    "title": "Coordenadas Polares",
+    "group": "Fundamentos y cinemática",
+    "file": "downloads/dinamica/coordenadas-polares.pdf",
+    "preview": "assets/dinamica/coordenadas-polares.webp",
+    "original": "Coordenadas_Polares.pdf",
+    "pages": 1,
+    "bytes": 122527,
+    "sha256": "005a390c3f33200e113be101935555dc1ecf10c35189458bb99afd51bdafb202"
+  },
+  {
+    "title": "Movimiento relativo",
+    "group": "Fundamentos y cinemática",
+    "file": "downloads/dinamica/movimiento-relativo.pdf",
+    "preview": "assets/dinamica/movimiento-relativo.webp",
+    "original": "Movimiento_relativo.pdf",
+    "pages": 1,
+    "bytes": 109341,
+    "sha256": "adac17ea781f4dccdf7345519fc5a4eb54a296318d5a9b5ff93a63b21d0bc4a1"
+  },
+  {
+    "title": "Fundamentos de Dinámica",
+    "group": "Fuerzas, energía y momentum",
+    "file": "downloads/dinamica/fundamentos-de-dinamica.pdf",
+    "preview": "assets/dinamica/fundamentos-de-dinamica.webp",
+    "original": "Fundamentos_de_Dinámica.pdf",
+    "pages": 1,
+    "bytes": 101790,
+    "sha256": "ff2c20a5f296312207cd2480c19c93921f4478cf8bc6481606175f28b8d73693"
+  },
+  {
+    "title": "Tensión, poleas y ecuaciones de ligadura",
+    "group": "Fuerzas, energía y momentum",
+    "file": "downloads/dinamica/tension.pdf",
+    "preview": "assets/dinamica/tension.webp",
+    "original": "Tensión.pdf",
+    "pages": 3,
+    "bytes": 167480,
+    "sha256": "12a67674720d99607762ebafe44baaa1e09129d32a16b52986221c5971841338"
+  },
+  {
+    "title": "Energía y trabajo",
+    "group": "Fuerzas, energía y momentum",
+    "file": "downloads/dinamica/energia-y-trabajo.pdf",
+    "preview": "assets/dinamica/energia-y-trabajo.webp",
+    "original": "Energía_y_trabajo.pdf",
+    "pages": 2,
+    "bytes": 100026,
+    "sha256": "ff7edf1e2375bb2e39aef1392fc560ac7f134aa454ad4e56400a46cacea089b6"
+  },
+  {
+    "title": "Momentum e Impulso",
+    "group": "Fuerzas, energía y momentum",
+    "file": "downloads/dinamica/momentum-e-impulso.pdf",
+    "preview": "assets/dinamica/momentum-e-impulso.webp",
+    "original": "Momentum_e_Impulso.pdf",
+    "pages": 1,
+    "bytes": 90633,
+    "sha256": "06670e19501c752203c417ef804bf08b250b8801c85e062778b00aa013c882fc"
+  },
+  {
+    "title": "Colisiones",
+    "group": "Fuerzas, energía y momentum",
+    "file": "downloads/dinamica/colisiones.pdf",
+    "preview": "assets/dinamica/colisiones.webp",
+    "original": "Colisiones.pdf",
+    "pages": 1,
+    "bytes": 99158,
+    "sha256": "85c5ea63ed521fbce90d519f88338fc5249c8c99eebe0288902df892893f17ab"
+  },
+  {
+    "title": "Sistema de masa variable y ecuación del cohete",
+    "group": "Fuerzas, energía y momentum",
+    "file": "downloads/dinamica/sistema-de-masa-variable-y-ecuacion-del-cohete.pdf",
+    "preview": "assets/dinamica/sistema-de-masa-variable-y-ecuacion-del-cohete.webp",
+    "original": "Sistema_de_masa_variable_y_ecuación_del_cohete.pdf",
+    "pages": 1,
+    "bytes": 71023,
+    "sha256": "47622fc50b2ffc8ca5cdad494465b70053d35f75f284149a56fe2e2b1475f547"
+  },
+  {
+    "title": "Centro de masa",
+    "group": "Centro de masa y rotación",
+    "file": "downloads/dinamica/centro-de-masa.pdf",
+    "preview": "assets/dinamica/centro-de-masa.webp",
+    "original": "Centro_de_masa.pdf",
+    "pages": 2,
+    "bytes": 95158,
+    "sha256": "f8a11b6941b9a6bdbf5614c5ec64c3042570ba21be0d800ce25c67d2937ef60a"
+  },
+  {
+    "title": "Inercia rotacional",
+    "group": "Centro de masa y rotación",
+    "file": "downloads/dinamica/inercia-rotacional.pdf",
+    "preview": "assets/dinamica/inercia-rotacional.webp",
+    "original": "Incercia.pdf",
+    "pages": 1,
+    "bytes": 87871,
+    "sha256": "d95b495a73541d0a36e2648c9379eb2a6ebb5b179046ad0f54c46c04c003a6e6"
+  },
+  {
+    "title": "Dinámica rotacional",
+    "group": "Centro de masa y rotación",
+    "file": "downloads/dinamica/dinamica-rotacional.pdf",
+    "preview": "assets/dinamica/dinamica-rotacional.webp",
+    "original": "Dinámica_rotacional.pdf",
+    "pages": 2,
+    "bytes": 105257,
+    "sha256": "4eac6d172ce26a8949377df9d073613a251f3f5e71cba10c7a2340ffa970e1e4"
+  },
+  {
+    "title": "Movimiento armónico simple",
+    "group": "Oscilaciones y material de consulta",
+    "file": "downloads/dinamica/mas.pdf",
+    "preview": "assets/dinamica/mas.webp",
+    "original": "MAS.pdf",
+    "pages": 2,
+    "bytes": 129843,
+    "sha256": "79179986b5b3cf70ddc6af9aed4b69201eefa36f9da095a03063f5232233325b"
+  },
+  {
+    "title": "Vibraciones",
+    "group": "Oscilaciones y material de consulta",
+    "file": "downloads/dinamica/vibraciones.pdf",
+    "preview": "assets/dinamica/vibraciones.webp",
+    "original": "Vibraciones.pdf",
+    "pages": 4,
+    "bytes": 242614,
+    "sha256": "8d05dd88785db78290ff861148c765ae8ac2e89bb2d589cabfc8f956ffc9f9cb"
+  },
+  {
+    "title": "Ejercicios MAS y Vibraciones",
+    "group": "Oscilaciones y material de consulta",
+    "file": "downloads/dinamica/ejercicios-mas-y-vibraciones.pdf",
+    "preview": "assets/dinamica/ejercicios-mas-y-vibraciones.webp",
+    "original": "Ejercicios_MAS_y_Vibraciones.pdf",
+    "pages": 4,
+    "bytes": 534456,
+    "sha256": "5e2faaf2feb422d71d47b5040dc88e35eb5cdf26d3f45b50be27d91c408608a1"
+  },
+  {
+    "title": "Formulario de Dinámica",
+    "group": "Oscilaciones y material de consulta",
+    "file": "downloads/dinamica/formulas-dinamica.pdf",
+    "preview": "assets/dinamica/formulas-dinamica.webp",
+    "original": "Fórmulas_Dinámica.pdf",
+    "pages": 3,
+    "bytes": 230519,
+    "sha256": "9b4123211162e4cf0221f34ce9519bafbe71552087cfe97845bb5d10741ac3e4"
+  }
+]

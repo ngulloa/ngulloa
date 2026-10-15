@@ -1,0 +1,11 @@
+# Arquitectura del portafolio
+
+Quarto genera un sitio HTML estático a partir de las 13 fuentes `.qmd`: Inicio, catálogo, siete fichas, Trayectoria, Docencia y recursos, Dinámica y Contacto. `_quarto.yml` conserva `project.type: website`, idioma español, tema Cosmo con tres capas SCSS, búsqueda y navegación nativa. El catálogo enumera explícitamente las siete fichas en `listing.contents`.
+
+Inicio utiliza `page-layout: custom`. En Quarto 1.10.18 el contenido se coloca directamente en `#quarto-content.page-layout-custom`; no existe `main.content` en esa página. `styles/layout.scss` define sus márgenes y grilla, mientras el resto conserva el contenedor de artículo. `styles/components.scss` estiliza navegación, búsqueda, perfil, proyectos y Listing sin JavaScript propio.
+
+`assets/**` y `downloads/**` son recursos publicados. `docs/`, el dossier y los borradores opcionales del paquete no forman parte del render. `_site/` y `.quarto/` son salidas generadas e ignoradas. Los enlaces locales son relativos, para funcionar desde raíz y bajo un prefijo de repositorio. La salida se puede servir en GitHub Pages sin backend; no se ha configurado publicación ni URL final.
+
+El catálogo emplea el motor de Listing nativo con una plantilla EJS de markup. En Quarto 1.10.18 el template por defecto enlaza imágenes/descripciones y añade acciones a categorías; la plantilla propia evita estos enlaces desde la fuente. `<%- ... %>` escapa texto y atributos (sintaxis de lodash usada por Quarto); `metadataAttrs` emite metadatos generados por Quarto. Las rutas `item.path`/`item.image` se resuelven por Quarto y su procesamiento HTML las vuelve relativas a la página. Cada ficha sigue siendo la fuente de título, descripción, imagen y categorías.
+
+`teaching/dinamica/index.qmd` es una página estática sin biblioteca JavaScript ni visores embebidos. `datos/dinamica.json` conserva el inventario de 18 originales (orden, grupos, páginas, bytes y SHA-256); los tamaños se muestran en KiB. El contenido QMD refleja ese inventario en cuatro secciones con acciones de ver y descargar. Los PDF intactos se publican en `downloads/dinamica/`; los JSON y la plantilla EJS son fuentes de mantenimiento y no recursos publicados. La búsqueda incluye la nueva página durante el render habitual, sin modificar el despliegue.

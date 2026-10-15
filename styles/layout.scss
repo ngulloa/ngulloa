@@ -1,0 +1,55 @@
+/*-- scss:rules --*/
+
+body { display: flex; min-height: 100vh; flex-direction: column; }
+#quarto-header, footer.footer { flex: 0 0 auto; }
+#quarto-content { width: 100%; flex: 1 0 auto; padding-block: clamp(1.5rem, 4vw, 4rem); }
+main.content {
+  width: min(100%, 76rem); min-width: 0; margin: 0 auto;
+  padding: clamp(1rem, 3vw, 3rem); background: $graphite-850;
+  border: 1px solid $graphite-700; border-radius: $radius-md;
+  box-shadow: $surface-shadow;
+}
+#title-block-header { margin-block: 0 $space-5; }
+#title-block-header .quarto-title h1 { margin-bottom: 0; }
+main.content > :last-child { margin-bottom: 0; }
+main.content :is(img, svg, video, iframe) { max-width: 100%; height: auto; }
+main.content :is(pre, table) { max-width: 100%; overflow-x: auto; }
+main.content table { display: block; }
+main.content > :is(p, ul, ol, h2, h3, blockquote) { max-width: 72ch; }
+main.content section.level2 > :is(p, ul, ol),
+main.content .quarto-title .description { max-width: 72ch; }
+.resources-page main.content, .listing-page main.content {
+  width: min(100%, 74rem);
+}
+.resources-page main.content > p:first-of-type,
+.listing-page main.content > p:first-of-type { max-width: 72ch; }
+.nav-footer { width: min(100%, 76rem); margin-inline: auto; }
+
+/* Custom layout has no main.content or article grid in Quarto 1.10.18. */
+.home-page #quarto-content.page-layout-custom {
+  width: min(100% - 2rem, 1440px);
+  margin-inline: auto;
+  padding-block: clamp(1.25rem, 3vw, 3rem) $space-8;
+}
+.home-shell { display: grid; min-width: 0; gap: clamp(1.5rem, 3vw, 3rem); }
+.profile-column, .home-main { min-width: 0; }
+.home-main { display: grid; align-content: start; gap: clamp(2.5rem, 5vw, 4.5rem); }
+.project-pair { display: grid; gap: $space-4; margin-top: $space-4; }
+
+/* Stack before the enlarged profile squeezes the main reading column. */
+@media (min-width: 1200px) {
+  .home-shell { grid-template-columns: clamp(26.25rem, 33vw, 30rem) minmax(0, 1fr); align-items: start; }
+}
+@media (min-width: 1400px) {
+  .project-pair { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 1199.98px) {
+  .home-page #quarto-content.page-layout-custom { width: min(100% - 1.5rem, 48rem); }
+}
+/* The global flex layout fills the viewport; the contact surface need not stretch. */
+.contact-page #quarto-content { align-content: start; }
+.contact-page main.content { align-self: start; min-height: 0; }
+
+/* Let long words reflow at narrow widths and with enlarged text. */
+main.content, .home-shell { overflow-wrap: anywhere; }
+.section-heading { flex-wrap: wrap; }

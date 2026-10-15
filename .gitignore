@@ -1,0 +1,14 @@
+_site/
+/.quarto/
+**/*.quarto_ipynb
+
+# Archivos temporales del sistema y de editores
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Material de trabajo y capturas locales
+/tmp/
+/codex-recursos/

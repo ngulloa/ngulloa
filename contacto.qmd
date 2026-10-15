@@ -1,0 +1,18 @@
+---
+title: Contacto
+description: Contacto de Nicolás Ulloa Gatica.
+toc: false
+body-classes: contact-page
+---
+
+```{=html}
+<div class="contact-intro">
+<img class="contact-avatar" src="assets/perfil/contacto-avatar.webp" alt="" width="64" height="64">
+<p>Si quieres conversar sobre un proyecto de software, un sitio en WordPress o clases de apoyo universitario, puedes escribirme. También puedes revisar mi trabajo público en GitHub.</p>
+</div>
+<dl class="contact-options">
+<div><dt>Correo</dt><dd><a href="mailto:ngulloa@uc.cl">ngulloa@uc.cl</a></dd></div>
+<div><dt>WhatsApp</dt><dd><a href="https://wa.me/56974136418">+56 9 7413 6418</a></dd></div>
+<div><dt>GitHub</dt><dd><a href="https://github.com/ngulloa">@ngulloa</a></dd></div>
+</dl>
+```

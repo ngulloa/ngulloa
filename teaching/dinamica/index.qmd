@@ -1,0 +1,238 @@
+---
+title: Dinámica
+description: Apuntes, ejercicios y un formulario de dinámica para consulta y descarga.
+toc: true
+toc-depth: 2
+body-classes: dynamics-page
+---
+
+[Volver a Docencia y recursos](../index.qmd)
+
+Apuntes, ejercicios y un formulario de consulta organizados por temática. Cada documento está disponible para ver o descargar en PDF.
+
+<!-- Orden, títulos y metadatos: datos/dinamica.json. Tamaños en KiB (1024 bytes). -->
+
+## Fundamentos y cinemática
+
+::: {.download-card}
+### Vectores
+
+PDF · 4 páginas · 211 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/vectores.pdf){.button-link aria-label="Ver PDF: Vectores"}
+
+[Descargar PDF](../../downloads/dinamica/vectores.pdf){.button-link download="vectores.pdf" aria-label="Descargar PDF: Vectores"}
+:::
+:::
+
+::: {.download-card}
+### Fundamentos de cinemática
+
+PDF · 2 páginas · 107 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/fundamentos-de-cinematica.pdf){.button-link aria-label="Ver PDF: Fundamentos de cinemática"}
+
+[Descargar PDF](../../downloads/dinamica/fundamentos-de-cinematica.pdf){.button-link download="fundamentos-de-cinematica.pdf" aria-label="Descargar PDF: Fundamentos de cinemática"}
+:::
+:::
+
+::: {.download-card}
+### Cinemática en dos dimensiones
+
+PDF · 2 páginas · 110 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/cinematica-2d.pdf){.button-link aria-label="Ver PDF: Cinemática en dos dimensiones"}
+
+[Descargar PDF](../../downloads/dinamica/cinematica-2d.pdf){.button-link download="cinematica-2d.pdf" aria-label="Descargar PDF: Cinemática en dos dimensiones"}
+:::
+:::
+
+::: {.download-card}
+### Coordenadas Polares
+
+PDF · 1 página · 120 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/coordenadas-polares.pdf){.button-link aria-label="Ver PDF: Coordenadas Polares"}
+
+[Descargar PDF](../../downloads/dinamica/coordenadas-polares.pdf){.button-link download="coordenadas-polares.pdf" aria-label="Descargar PDF: Coordenadas Polares"}
+:::
+:::
+
+::: {.download-card}
+### Movimiento relativo
+
+PDF · 1 página · 107 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/movimiento-relativo.pdf){.button-link aria-label="Ver PDF: Movimiento relativo"}
+
+[Descargar PDF](../../downloads/dinamica/movimiento-relativo.pdf){.button-link download="movimiento-relativo.pdf" aria-label="Descargar PDF: Movimiento relativo"}
+:::
+:::
+
+## Fuerzas, energía y momentum
+
+::: {.download-card}
+### Fundamentos de Dinámica
+
+PDF · 1 página · 99 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/fundamentos-de-dinamica.pdf){.button-link aria-label="Ver PDF: Fundamentos de Dinámica"}
+
+[Descargar PDF](../../downloads/dinamica/fundamentos-de-dinamica.pdf){.button-link download="fundamentos-de-dinamica.pdf" aria-label="Descargar PDF: Fundamentos de Dinámica"}
+:::
+:::
+
+::: {.download-card}
+### Tensión, poleas y ecuaciones de ligadura
+
+PDF · 3 páginas · 164 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/tension.pdf){.button-link aria-label="Ver PDF: Tensión, poleas y ecuaciones de ligadura"}
+
+[Descargar PDF](../../downloads/dinamica/tension.pdf){.button-link download="tension.pdf" aria-label="Descargar PDF: Tensión, poleas y ecuaciones de ligadura"}
+:::
+:::
+
+::: {.download-card}
+### Energía y trabajo
+
+PDF · 2 páginas · 98 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/energia-y-trabajo.pdf){.button-link aria-label="Ver PDF: Energía y trabajo"}
+
+[Descargar PDF](../../downloads/dinamica/energia-y-trabajo.pdf){.button-link download="energia-y-trabajo.pdf" aria-label="Descargar PDF: Energía y trabajo"}
+:::
+:::
+
+::: {.download-card}
+### Momentum e Impulso
+
+PDF · 1 página · 89 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/momentum-e-impulso.pdf){.button-link aria-label="Ver PDF: Momentum e Impulso"}
+
+[Descargar PDF](../../downloads/dinamica/momentum-e-impulso.pdf){.button-link download="momentum-e-impulso.pdf" aria-label="Descargar PDF: Momentum e Impulso"}
+:::
+:::
+
+::: {.download-card}
+### Colisiones
+
+PDF · 1 página · 97 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/colisiones.pdf){.button-link aria-label="Ver PDF: Colisiones"}
+
+[Descargar PDF](../../downloads/dinamica/colisiones.pdf){.button-link download="colisiones.pdf" aria-label="Descargar PDF: Colisiones"}
+:::
+:::
+
+::: {.download-card}
+### Sistema de masa variable y ecuación del cohete
+
+PDF · 1 página · 69 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/sistema-de-masa-variable-y-ecuacion-del-cohete.pdf){.button-link aria-label="Ver PDF: Sistema de masa variable y ecuación del cohete"}
+
+[Descargar PDF](../../downloads/dinamica/sistema-de-masa-variable-y-ecuacion-del-cohete.pdf){.button-link download="sistema-de-masa-variable-y-ecuacion-del-cohete.pdf" aria-label="Descargar PDF: Sistema de masa variable y ecuación del cohete"}
+:::
+:::
+
+## Centro de masa y rotación
+
+::: {.download-card}
+### Centro de masa
+
+PDF · 2 páginas · 93 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/centro-de-masa.pdf){.button-link aria-label="Ver PDF: Centro de masa"}
+
+[Descargar PDF](../../downloads/dinamica/centro-de-masa.pdf){.button-link download="centro-de-masa.pdf" aria-label="Descargar PDF: Centro de masa"}
+:::
+:::
+
+::: {.download-card}
+### Inercia rotacional
+
+PDF · 1 página · 86 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/inercia-rotacional.pdf){.button-link aria-label="Ver PDF: Inercia rotacional"}
+
+[Descargar PDF](../../downloads/dinamica/inercia-rotacional.pdf){.button-link download="inercia-rotacional.pdf" aria-label="Descargar PDF: Inercia rotacional"}
+:::
+:::
+
+::: {.download-card}
+### Dinámica rotacional
+
+PDF · 2 páginas · 103 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/dinamica-rotacional.pdf){.button-link aria-label="Ver PDF: Dinámica rotacional"}
+
+[Descargar PDF](../../downloads/dinamica/dinamica-rotacional.pdf){.button-link download="dinamica-rotacional.pdf" aria-label="Descargar PDF: Dinámica rotacional"}
+:::
+:::
+
+## Oscilaciones y material de consulta
+
+::: {.download-card}
+### Movimiento armónico simple
+
+PDF · 2 páginas · 127 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/mas.pdf){.button-link aria-label="Ver PDF: Movimiento armónico simple"}
+
+[Descargar PDF](../../downloads/dinamica/mas.pdf){.button-link download="mas.pdf" aria-label="Descargar PDF: Movimiento armónico simple"}
+:::
+:::
+
+::: {.download-card}
+### Vibraciones
+
+PDF · 4 páginas · 237 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/vibraciones.pdf){.button-link aria-label="Ver PDF: Vibraciones"}
+
+[Descargar PDF](../../downloads/dinamica/vibraciones.pdf){.button-link download="vibraciones.pdf" aria-label="Descargar PDF: Vibraciones"}
+:::
+:::
+
+::: {.download-card}
+### Ejercicios MAS y Vibraciones
+
+PDF · 4 páginas · 522 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/ejercicios-mas-y-vibraciones.pdf){.button-link aria-label="Ver PDF: Ejercicios MAS y Vibraciones"}
+
+[Descargar PDF](../../downloads/dinamica/ejercicios-mas-y-vibraciones.pdf){.button-link download="ejercicios-mas-y-vibraciones.pdf" aria-label="Descargar PDF: Ejercicios MAS y Vibraciones"}
+:::
+:::
+
+::: {.download-card}
+### Formulario de Dinámica
+
+PDF · 3 páginas · 225 KiB
+
+::: {.document-actions}
+[Ver PDF](../../downloads/dinamica/formulas-dinamica.pdf){.button-link aria-label="Ver PDF: Formulario de Dinámica"}
+
+[Descargar PDF](../../downloads/dinamica/formulas-dinamica.pdf){.button-link download="formulas-dinamica.pdf" aria-label="Descargar PDF: Formulario de Dinámica"}
+:::
+:::
+
