@@ -1,0 +1,422 @@
+[
+  {
+    "objectID": "trayectoria.html",
+    "href": "trayectoria.html",
+    "title": "Trayectoria",
+    "section": "",
+    "text": "Mi formación combina Ciencias de la Ingeniería, física y sistemas de información. Desarrollo software y sitios web, colaboro en proyectos de investigación y creo recursos educativos."
+  },
+  {
+    "objectID": "trayectoria.html#experiencia",
+    "href": "trayectoria.html#experiencia",
+    "title": "Trayectoria",
+    "section": "Experiencia",
+    "text": "Experiencia\n\nAsistente técnico y programador · LIF, UC\nA octubre de 2026, cuento con tres años de colaboración como asistente técnico y programador en el Laboratorio de Lenguaje, Interacción y Fenomenología de la Pontificia Universidad Católica de Chile, trabajando con equipos interdisciplinarios.\nProyectos relacionados: sitio institucional del LIF y visión por computación en imágenes térmicas.\n\n\nDesarrollo de software y sitios web\nDesarrollo software para gestión de procesos y soluciones de backend y frontend. También construyo sitios en WordPress, incluyendo landing pages y comercio electrónico, y trabajo en inteligencia artificial, visión por computación y reconocimiento de imágenes.\n\n\nFísica y gestión de procesos\nHe participado en un proyecto semestral sobre el efecto Kerr, en la mejora de procesos de urbanismo municipal y en una propuesta de modelación para retiro de voluminosos en Pudahuel."
+  },
+  {
+    "objectID": "trayectoria.html#participación-estudiantil",
+    "href": "trayectoria.html#participación-estudiantil",
+    "title": "Trayectoria",
+    "section": "Participación estudiantil",
+    "text": "Participación estudiantil\nParticipé durante un año en la organización del capítulo estudiantil SIAM-PUC, colaborando en la redacción de estatutos y su funcionamiento junto a otros cuatro compañeros. Me desempeñé como tesorero en una de sus directivas.\nSIAM corresponde a Society for Industrial and Applied Mathematics. El cargo figura en el historial del capítulo."
+  },
+  {
+    "objectID": "trayectoria.html#formación",
+    "href": "trayectoria.html#formación",
+    "title": "Trayectoria",
+    "section": "Formación",
+    "text": "Formación\nEstudiante de la Pontificia Universidad Católica de Chile, en vías de titulación como Ingeniero Civil en Computación. Mi formación en Ciencias de la Ingeniería combina física y sistemas de información."
+  },
+  {
+    "objectID": "trayectoria.html#habilidades",
+    "href": "trayectoria.html#habilidades",
+    "title": "Trayectoria",
+    "section": "Habilidades",
+    "text": "Habilidades\n\n\n\n\n\n\n\nÁmbito\nHerramientas y experiencia\n\n\n\n\nLenguajes principales\nPython, SQL\n\n\nDesarrollo y datos\nDjango, PostgreSQL, backend y frontend\n\n\nDesarrollo web\nWordPress, Quarto\n\n\nColaboración\nGit, GitHub\n\n\nIA e imágenes\nYOLOv5, visión por computación y reconocimiento de imágenes\n\n\nElectrónica y prototipado\nArduino y programación de ESP32\n\n\nConocimientos complementarios\nC y Kotlin, con menor experiencia"
+  },
+  {
+    "objectID": "trayectoria.html#docencia",
+    "href": "trayectoria.html#docencia",
+    "title": "Trayectoria",
+    "section": "Docencia",
+    "text": "Docencia\nRealizo clases de apoyo universitario en matemática, física, computación y programación. Consulta mis recursos educativos."
+  },
+  {
+    "objectID": "teaching/dinamica/index.html",
+    "href": "teaching/dinamica/index.html",
+    "title": "Dinámica",
+    "section": "",
+    "text": "Volver a Docencia y recursos\nApuntes, ejercicios y un formulario de consulta organizados por temática. Cada documento está disponible para ver o descargar en PDF."
+  },
+  {
+    "objectID": "teaching/dinamica/index.html#fundamentos-y-cinemática",
+    "href": "teaching/dinamica/index.html#fundamentos-y-cinemática",
+    "title": "Dinámica",
+    "section": "Fundamentos y cinemática",
+    "text": "Fundamentos y cinemática\n\nVectores\nPDF · 4 páginas · 211 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nFundamentos de cinemática\nPDF · 2 páginas · 107 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nCinemática en dos dimensiones\nPDF · 2 páginas · 110 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nCoordenadas Polares\nPDF · 1 página · 120 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nMovimiento relativo\nPDF · 1 página · 107 KiB\n\nVer PDF\nDescargar PDF"
+  },
+  {
+    "objectID": "teaching/dinamica/index.html#fuerzas-energía-y-momentum",
+    "href": "teaching/dinamica/index.html#fuerzas-energía-y-momentum",
+    "title": "Dinámica",
+    "section": "Fuerzas, energía y momentum",
+    "text": "Fuerzas, energía y momentum\n\nFundamentos de Dinámica\nPDF · 1 página · 99 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nTensión, poleas y ecuaciones de ligadura\nPDF · 3 páginas · 164 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nEnergía y trabajo\nPDF · 2 páginas · 98 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nMomentum e Impulso\nPDF · 1 página · 89 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nColisiones\nPDF · 1 página · 97 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nSistema de masa variable y ecuación del cohete\nPDF · 1 página · 69 KiB\n\nVer PDF\nDescargar PDF"
+  },
+  {
+    "objectID": "teaching/dinamica/index.html#centro-de-masa-y-rotación",
+    "href": "teaching/dinamica/index.html#centro-de-masa-y-rotación",
+    "title": "Dinámica",
+    "section": "Centro de masa y rotación",
+    "text": "Centro de masa y rotación\n\nCentro de masa\nPDF · 2 páginas · 93 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nInercia rotacional\nPDF · 1 página · 86 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nDinámica rotacional\nPDF · 2 páginas · 103 KiB\n\nVer PDF\nDescargar PDF"
+  },
+  {
+    "objectID": "teaching/dinamica/index.html#oscilaciones-y-material-de-consulta",
+    "href": "teaching/dinamica/index.html#oscilaciones-y-material-de-consulta",
+    "title": "Dinámica",
+    "section": "Oscilaciones y material de consulta",
+    "text": "Oscilaciones y material de consulta\n\nMovimiento armónico simple\nPDF · 2 páginas · 127 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nVibraciones\nPDF · 4 páginas · 237 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nEjercicios MAS y Vibraciones\nPDF · 4 páginas · 522 KiB\n\nVer PDF\nDescargar PDF\n\n\n\nFormulario de Dinámica\nPDF · 3 páginas · 225 KiB\n\nVer PDF\nDescargar PDF"
+  },
+  {
+    "objectID": "projects/termografia-yolov5/index.html",
+    "href": "projects/termografia-yolov5/index.html",
+    "title": "Visión por computación en imágenes térmicas",
+    "section": "",
+    "text": "En el LIF trabajé con un equipo interdisciplinario e internacional integrado por profesionales de ingeniería de software, ingeniería biomédica y psicología. Participé en el entrenamiento de un modelo basado en YOLOv5 para reconocer patrones o regiones faciales en imágenes térmicas y apoyar su etiquetado. Esta automatización contribuyó al desarrollo de una investigación sobre variaciones térmicas faciales en condiciones de estudio menos restrictivas."
+  },
+  {
+    "objectID": "projects/termografia-yolov5/index.html#contexto-y-objetivo",
+    "href": "projects/termografia-yolov5/index.html#contexto-y-objetivo",
+    "title": "Visión por computación en imágenes térmicas",
+    "section": "Contexto y objetivo",
+    "text": "Contexto y objetivo\nLIF, UC; equipo interdisciplinario e internacional con profesionales de ingeniería de software, ingeniería biomédica y psicología.\nApoyar el reconocimiento y etiquetado de regiones faciales en imágenes térmicas."
+  },
+  {
+    "objectID": "projects/termografia-yolov5/index.html#mi-aporte",
+    "href": "projects/termografia-yolov5/index.html#mi-aporte",
+    "title": "Visión por computación en imágenes térmicas",
+    "section": "Mi aporte",
+    "text": "Mi aporte\nParticipación en el entrenamiento de un modelo YOLOv5 para apoyar el etiquetado."
+  },
+  {
+    "objectID": "projects/termografia-yolov5/index.html#herramientas",
+    "href": "projects/termografia-yolov5/index.html#herramientas",
+    "title": "Visión por computación en imágenes térmicas",
+    "section": "Herramientas",
+    "text": "Herramientas\nYOLOv5."
+  },
+  {
+    "objectID": "projects/termografia-yolov5/index.html#resultado",
+    "href": "projects/termografia-yolov5/index.html#resultado",
+    "title": "Visión por computación en imágenes térmicas",
+    "section": "Resultado",
+    "text": "Resultado\nSegún mi estimación, la automatización ahorró al menos tres meses de trabajo manual de etiquetado."
+  },
+  {
+    "objectID": "projects/precalculo/index.html",
+    "href": "projects/precalculo/index.html",
+    "title": "Precálculo interactivo",
+    "section": "",
+    "text": "Creé un sitio de consulta de precálculo que combina definiciones, ejemplos, ejercicios y visualizaciones interactivas. Sus siete temas cubren inducción matemática, sucesiones y sumatorias, teorema del binomio, trigonometría, rectas, circunferencia y parábola. Las visualizaciones permiten explorar relaciones geométricas, como las coordenadas en el círculo unitario o la relación entre el foco y la directriz de una parábola."
+  },
+  {
+    "objectID": "projects/precalculo/index.html#contexto-y-objetivo",
+    "href": "projects/precalculo/index.html#contexto-y-objetivo",
+    "title": "Precálculo interactivo",
+    "section": "Contexto y objetivo",
+    "text": "Contexto y objetivo\nRecurso educativo personal de apoyo al estudio autónomo.\nIntegrar explicaciones, ejemplos, ejercicios y exploraciones geométricas interactivas."
+  },
+  {
+    "objectID": "projects/precalculo/index.html#mi-aporte",
+    "href": "projects/precalculo/index.html#mi-aporte",
+    "title": "Precálculo interactivo",
+    "section": "Mi aporte",
+    "text": "Mi aporte\nDesarrollo del recurso educativo y su sitio web."
+  },
+  {
+    "objectID": "projects/precalculo/index.html#herramientas",
+    "href": "projects/precalculo/index.html#herramientas",
+    "title": "Precálculo interactivo",
+    "section": "Herramientas",
+    "text": "Herramientas\nQuarto, JavaScript."
+  },
+  {
+    "objectID": "projects/precalculo/index.html#resultado",
+    "href": "projects/precalculo/index.html#resultado",
+    "title": "Precálculo interactivo",
+    "section": "Resultado",
+    "text": "Resultado\nSitio público con siete temas y visualizaciones interactivas del círculo unitario y la parábola, entre otros contenidos."
+  },
+  {
+    "objectID": "projects/precalculo/index.html#imágenes-del-proyecto",
+    "href": "projects/precalculo/index.html#imágenes-del-proyecto",
+    "title": "Precálculo interactivo",
+    "section": "Imágenes del proyecto",
+    "text": "Imágenes del proyecto\n\n\n\nVisualización del círculo unitario en el sitio Precálculo.\n\n\n\n\n\nVisualización de la parábola y sus controles de foco y directriz."
+  },
+  {
+    "objectID": "projects/precalculo/index.html#enlaces",
+    "href": "projects/precalculo/index.html#enlaces",
+    "title": "Precálculo interactivo",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nVisitar sitio.\nRepositorio."
+  },
+  {
+    "objectID": "projects/lif-web/index.html",
+    "href": "projects/lif-web/index.html",
+    "title": "Sitio institucional del LIF",
+    "section": "",
+    "text": "Participé en el desarrollo del sitio web institucional del Laboratorio de Lenguaje, Interacción y Fenomenología de la Pontificia Universidad Católica de Chile. El sitio reúne información sobre el laboratorio, su equipo y su actividad académica, y ofrece un punto de acceso a sus proyectos, publicaciones y contacto."
+  },
+  {
+    "objectID": "projects/lif-web/index.html#contexto-y-objetivo",
+    "href": "projects/lif-web/index.html#contexto-y-objetivo",
+    "title": "Sitio institucional del LIF",
+    "section": "Contexto y objetivo",
+    "text": "Contexto y objetivo\nLaboratorio de Lenguaje, Interacción y Fenomenología, Pontificia Universidad Católica de Chile.\nReunir y hacer accesible la información institucional y la actividad académica del laboratorio."
+  },
+  {
+    "objectID": "projects/lif-web/index.html#mi-aporte",
+    "href": "projects/lif-web/index.html#mi-aporte",
+    "title": "Sitio institucional del LIF",
+    "section": "Mi aporte",
+    "text": "Mi aporte\nParticipación en el desarrollo del sitio institucional."
+  },
+  {
+    "objectID": "projects/lif-web/index.html#herramientas",
+    "href": "projects/lif-web/index.html#herramientas",
+    "title": "Sitio institucional del LIF",
+    "section": "Herramientas",
+    "text": "Herramientas\nWordPress."
+  },
+  {
+    "objectID": "projects/lif-web/index.html#resultado",
+    "href": "projects/lif-web/index.html#resultado",
+    "title": "Sitio institucional del LIF",
+    "section": "Resultado",
+    "text": "Resultado\nSitio web público con secciones de equipo, proyectos, publicaciones y contacto."
+  },
+  {
+    "objectID": "projects/lif-web/index.html#imágenes-del-proyecto",
+    "href": "projects/lif-web/index.html#imágenes-del-proyecto",
+    "title": "Sitio institucional del LIF",
+    "section": "Imágenes del proyecto",
+    "text": "Imágenes del proyecto\n\n\n\nSitio institucional del LIF\n\n\nCaptura del sitio institucional del LIF."
+  },
+  {
+    "objectID": "projects/lif-web/index.html#enlaces",
+    "href": "projects/lif-web/index.html#enlaces",
+    "title": "Sitio institucional del LIF",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nVisitar sitio."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Una selección de proyectos que conectan programación, física, educación y gestión de procesos. Cada ficha presenta su contexto, mi participación y los materiales disponibles.\n\n\n\n\n\n\n\n\n\nSitio institucional del LIF\nDesarrollo del sitio institucional del Laboratorio de Lenguaje, Interacción y Fenomenología de la UC.\n\n\n\nDesarrollo web\n\n\n\n\n\n\n\n\n\n\n\nMétodos numéricos para mecánica cuántica\nGuías e implementaciones en Python de Prüfer y Shooting para aproximar valores propios en intervalos finitos.\n\n\n\nComputación científica\n\nEducación\n\n\n\n\n\n\n\n\n\n\n\nPrecálculo interactivo\nCompendio de precálculo con explicaciones, ejercicios y visualizaciones interactivas.\n\n\n\nDesarrollo web\n\nEducación\n\n\n\n\n\n\n\n\n\n\n\nVisión por computación en imágenes térmicas\nColaboración interdisciplinaria para apoyar el reconocimiento y etiquetado de regiones faciales con YOLOv5.\n\n\n\nInvestigación aplicada\n\nInteligencia artificial\n\n\n\n\n\n\n\n\n\nDemostración del efecto magnetoóptico Kerr\nExperimento de magnetoóptica en el laboratorio de spintrónica UC, con mediciones, automatización en LabVIEW e informe original.\n\n\n\nFísica experimental\n\n\n\n\n\n\n\n\n\n\n\nMejora de procesos de urbanismo municipal\nParticipación en un proyecto orientado a mejorar la resolución de trámites de urbanismo en una Dirección de Obras Municipales.\n\n\n\nGestión de procesos\n\n\n\n\n\n\n\n\n\nModelación para retiro de voluminosos en Pudahuel\nPropuesta de modelación lineal para evaluar alternativas de mejora del retiro municipal de residuos voluminosos.\n\n\n\nOptimización aplicada\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "Si quieres conversar sobre un proyecto de software, un sitio en WordPress o clases de apoyo universitario, puedes escribirme. También puedes revisar mi trabajo público en GitHub.\n\n\nCorreongulloa@uc.cl\nWhatsApp+56 9 7413 6418\nGitHub@ngulloa"
+  },
+  {
+    "objectID": "projects/kerr/index.html",
+    "href": "projects/kerr/index.html",
+    "title": "Demostración del efecto magnetoóptico Kerr",
+    "section": "",
+    "text": "Participé en el proyecto experimental descrito en el informe «Efecto Kerr Magneto-Óptico», realizado con Vicente Jasen Serón en el laboratorio de spintrónica de la Pontificia Universidad Católica de Chile durante el segundo semestre de 2022."
+  },
+  {
+    "objectID": "projects/kerr/index.html#contexto-y-objetivo",
+    "href": "projects/kerr/index.html#contexto-y-objetivo",
+    "title": "Demostración del efecto magnetoóptico Kerr",
+    "section": "Contexto y objetivo",
+    "text": "Contexto y objetivo\nEl trabajo buscó observar el efecto magnetoóptico Kerr longitudinal en una película de CoFeB de 30 nm, mediante cambios en la señal de luz reflejada durante un barrido de corriente aplicado a las bobinas. El montaje incluyó un láser He–Ne, componentes ópticos, fotodetector y amplificador lock-in SR530."
+  },
+  {
+    "objectID": "projects/kerr/index.html#técnicas-y-herramientas",
+    "href": "projects/kerr/index.html#técnicas-y-herramientas",
+    "title": "Demostración del efecto magnetoóptico Kerr",
+    "section": "Técnicas y herramientas",
+    "text": "Técnicas y herramientas\nEl informe describe la alineación óptica del montaje y el uso de LabVIEW para controlar la secuencia experimental y adquirir las mediciones. Las capturas siguientes proceden del programa documentado en el informe.\n\n\n\n\nPanel de control incluido en el informe (figura 6, p. 4).\n\n\nVer panel de LabVIEW en tamaño original\n\n\n\nDiagrama de bloques incluido en el informe (figura 7, p. 5).\n\n\nVer diagrama de LabVIEW en tamaño original"
+  },
+  {
+    "objectID": "projects/kerr/index.html#resultados-y-alcance",
+    "href": "projects/kerr/index.html#resultados-y-alcance",
+    "title": "Demostración del efecto magnetoóptico Kerr",
+    "section": "Resultados y alcance",
+    "text": "Resultados y alcance\nEl informe presenta curvas experimentales y analiza su sensibilidad al ruido, a la alineación óptica, a la posición de la muestra y al ajuste de los polarizadores. La figura muestra una de esas mediciones; el voltaje del detector se presenta como señal medida, sin convertirlo en magnetización cuantitativa.\n\n\n\nCurva medida incluida en el informe original (gráfico 4, p. 6); se conservan sus etiquetas.\n\n\nVer curva en tamaño original\nEl procedimiento expresa el barrido en mA mientras el gráfico rotula el eje como «Corriente [A]». Por esa discrepancia de unidades, no se infieren magnitudes de la curva. El informe también indica que no se determinó cómo influye exactamente el posicionamiento de la muestra en la visibilidad del efecto."
+  },
+  {
+    "objectID": "projects/kerr/index.html#mi-participación",
+    "href": "projects/kerr/index.html#mi-participación",
+    "title": "Demostración del efecto magnetoóptico Kerr",
+    "section": "Mi participación",
+    "text": "Mi participación\nParticipación en el trabajo experimental y en el informe conjunto. El documento acredita a ambos autores y no desglosa tareas individuales."
+  },
+  {
+    "objectID": "projects/kerr/index.html#informe-original",
+    "href": "projects/kerr/index.html#informe-original",
+    "title": "Demostración del efecto magnetoóptico Kerr",
+    "section": "Informe original",
+    "text": "Informe original\nInforme de Vicente Jasen Serón y Nicolás Ulloa Gatica, Pontificia Universidad Católica de Chile, segundo semestre de 2022 (6 páginas).\n\nVer informe PDFDescargar informe PDF"
+  },
+  {
+    "objectID": "projects/metodos-numericos-qm/index.html",
+    "href": "projects/metodos-numericos-qm/index.html",
+    "title": "Métodos numéricos para mecánica cuántica",
+    "section": "",
+    "text": "Desarrollé un recurso pedagógico que conecta la explicación matemática de los métodos de Prüfer y Shooting con implementaciones en Python. El proyecto muestra cómo aproximar valores propios de la ecuación de Schrödinger simplificada en un intervalo finito, a partir de un potencial conocido. Fue realizado con la orientación del profesor Rafael Benguria Donoso, quien figura como profesor en las guías del repositorio."
+  },
+  {
+    "objectID": "projects/metodos-numericos-qm/index.html#contexto-y-objetivo",
+    "href": "projects/metodos-numericos-qm/index.html#contexto-y-objetivo",
+    "title": "Métodos numéricos para mecánica cuántica",
+    "section": "Contexto y objetivo",
+    "text": "Contexto y objetivo\nRecurso académico realizado con orientación del profesor Rafael Benguria Donoso. Las guías acreditan a Nicolás Ulloa Gatica como estudiante y a Rafael Benguria Donoso como profesor.\nConectar la explicación matemática con implementaciones para explorar valores propios de una ecuación de Schrödinger simplificada."
+  },
+  {
+    "objectID": "projects/metodos-numericos-qm/index.html#mi-aporte",
+    "href": "projects/metodos-numericos-qm/index.html#mi-aporte",
+    "title": "Métodos numéricos para mecánica cuántica",
+    "section": "Mi aporte",
+    "text": "Mi aporte\nDesarrollo de guías e implementaciones pedagógicas en Python."
+  },
+  {
+    "objectID": "projects/metodos-numericos-qm/index.html#herramientas",
+    "href": "projects/metodos-numericos-qm/index.html#herramientas",
+    "title": "Métodos numéricos para mecánica cuántica",
+    "section": "Herramientas",
+    "text": "Herramientas\nPython, NumPy, Matplotlib."
+  },
+  {
+    "objectID": "projects/metodos-numericos-qm/index.html#resultado",
+    "href": "projects/metodos-numericos-qm/index.html#resultado",
+    "title": "Métodos numéricos para mecánica cuántica",
+    "section": "Resultado",
+    "text": "Resultado\nDos guías PDF, dos programas y gráficos de una ejecución documentada de los originales."
+  },
+  {
+    "objectID": "projects/metodos-numericos-qm/index.html#imágenes-del-proyecto",
+    "href": "projects/metodos-numericos-qm/index.html#imágenes-del-proyecto",
+    "title": "Métodos numéricos para mecánica cuántica",
+    "section": "Imágenes del proyecto",
+    "text": "Imágenes del proyecto\n\n\n\nMapa T(E) del programa original de Prüfer para potencial nulo en [-2, 2]. El eje conserva un desfase de +0,1 entre la energía evaluada y la etiquetada.\n\n\n\n\n\nFunción objetivo f(E) de Shooting para potencial nulo en [0, 1]. Con aproximación inicial E = 40, el programa obtiene una raíz cercana a 39,4729."
+  },
+  {
+    "objectID": "projects/metodos-numericos-qm/index.html#alcance-de-los-gráficos",
+    "href": "projects/metodos-numericos-qm/index.html#alcance-de-los-gráficos",
+    "title": "Métodos numéricos para mecánica cuántica",
+    "section": "Alcance de los gráficos",
+    "text": "Alcance de los gráficos\n\nLas figuras representan T(E) y f(E), respectivamente; no son funciones de onda.\nLa energía pertenece a la ecuación simplificada y no está expresada en electronvoltios.\nLos intervalos de ambos programas son distintos, por lo que sus energías no se comparan directamente.\nLos gráficos conservan el algoritmo original; el desfase de Prüfer y la tolerancia del residual de Shooting limitan las conclusiones de precisión."
+  },
+  {
+    "objectID": "projects/metodos-numericos-qm/index.html#guías-originales",
+    "href": "projects/metodos-numericos-qm/index.html#guías-originales",
+    "title": "Métodos numéricos para mecánica cuántica",
+    "section": "Guías originales",
+    "text": "Guías originales\n\nDescargar guía de Prüfer.\nDescargar guía de Shooting."
+  },
+  {
+    "objectID": "projects/metodos-numericos-qm/index.html#enlaces",
+    "href": "projects/metodos-numericos-qm/index.html#enlaces",
+    "title": "Métodos numéricos para mecánica cuántica",
+    "section": "Enlaces",
+    "text": "Enlaces\n\nRepositorio."
+  },
+  {
+    "objectID": "projects/procesos-urbanismo/index.html",
+    "href": "projects/procesos-urbanismo/index.html",
+    "title": "Mejora de procesos de urbanismo municipal",
+    "section": "",
+    "text": "Participé en un proyecto municipal orientado a mejorar el proceso de resolución de trámites de urbanismo de la Dirección de Obras Municipales, con un enfoque de gestión de procesos."
+  },
+  {
+    "objectID": "projects/procesos-urbanismo/index.html#contexto-y-objetivo",
+    "href": "projects/procesos-urbanismo/index.html#contexto-y-objetivo",
+    "title": "Mejora de procesos de urbanismo municipal",
+    "section": "Contexto y objetivo",
+    "text": "Contexto y objetivo\nProyecto municipal en una Dirección de Obras Municipales.\nMejorar el proceso de resolución de trámites de urbanismo mediante gestión de procesos."
+  },
+  {
+    "objectID": "projects/procesos-urbanismo/index.html#mi-aporte",
+    "href": "projects/procesos-urbanismo/index.html#mi-aporte",
+    "title": "Mejora de procesos de urbanismo municipal",
+    "section": "Mi aporte",
+    "text": "Mi aporte\nParticipación en el proyecto de mejora de procesos."
+  },
+  {
+    "objectID": "projects/voluminosos-pudahuel/index.html",
+    "href": "projects/voluminosos-pudahuel/index.html",
+    "title": "Modelación para retiro de voluminosos en Pudahuel",
+    "section": "",
+    "text": "Trabajé en un proyecto con la Municipalidad de Pudahuel para diseñar y evaluar alternativas de mejora del retiro de residuos voluminosos. La propuesta abordó la complejidad del proceso mediante modelación lineal y un enfoque de optimización."
+  },
+  {
+    "objectID": "projects/voluminosos-pudahuel/index.html#contexto-y-objetivo",
+    "href": "projects/voluminosos-pudahuel/index.html#contexto-y-objetivo",
+    "title": "Modelación para retiro de voluminosos en Pudahuel",
+    "section": "Contexto y objetivo",
+    "text": "Contexto y objetivo\nProyecto con la Municipalidad de Pudahuel.\nDiseñar y evaluar alternativas de mejora para el retiro de residuos voluminosos."
+  },
+  {
+    "objectID": "projects/voluminosos-pudahuel/index.html#mi-aporte",
+    "href": "projects/voluminosos-pudahuel/index.html#mi-aporte",
+    "title": "Modelación para retiro de voluminosos en Pudahuel",
+    "section": "Mi aporte",
+    "text": "Mi aporte\nParticipación en la propuesta de modelación y evaluación de alternativas."
+  },
+  {
+    "objectID": "projects/voluminosos-pudahuel/index.html#herramientas",
+    "href": "projects/voluminosos-pudahuel/index.html#herramientas",
+    "title": "Modelación para retiro de voluminosos en Pudahuel",
+    "section": "Herramientas",
+    "text": "Herramientas\nModelación lineal, Optimización."
+  },
+  {
+    "objectID": "projects/voluminosos-pudahuel/index.html#resultado",
+    "href": "projects/voluminosos-pudahuel/index.html#resultado",
+    "title": "Modelación para retiro de voluminosos en Pudahuel",
+    "section": "Resultado",
+    "text": "Resultado\nPropuesta de modelación lineal orientada a mejorar el proceso de retiro."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Docencia y recursos",
+    "section": "",
+    "text": "Realizo clases de apoyo universitario en matemática, física, programación y computación. Aquí comparto recursos que he desarrollado para apoyar el aprendizaje y la consulta autónoma."
+  },
+  {
+    "objectID": "teaching/index.html#precálculo-interactivo",
+    "href": "teaching/index.html#precálculo-interactivo",
+    "title": "Docencia y recursos",
+    "section": "Precálculo interactivo",
+    "text": "Precálculo interactivo\nExplicaciones, ejemplos, ejercicios y visualizaciones sobre inducción, sucesiones y sumatorias, teorema del binomio, trigonometría, rectas, circunferencia y parábola.\n\nAbrir Precálculo interactivo\nVer ficha de Precálculo"
+  },
+  {
+    "objectID": "teaching/index.html#métodos-numéricos-para-mecánica-cuántica",
+    "href": "teaching/index.html#métodos-numéricos-para-mecánica-cuántica",
+    "title": "Docencia y recursos",
+    "section": "Métodos numéricos para mecánica cuántica",
+    "text": "Métodos numéricos para mecánica cuántica\nGuías de Prüfer y Shooting con implementaciones en Python, realizadas con orientación del profesor Rafael Benguria Donoso.\n\nGuía original de Prüfer (PDF)\nGuía original de Shooting (PDF)\nVer ficha y límites de los gráficos"
+  },
+  {
+    "objectID": "teaching/index.html#dinámica",
+    "href": "teaching/index.html#dinámica",
+    "title": "Docencia y recursos",
+    "section": "Dinámica",
+    "text": "Dinámica\n18 PDF de apuntes, ejercicios y un formulario de consulta, organizados en cuatro temáticas.\n\nVer materiales de Dinámica"
+  },
+  {
+    "objectID": "teaching/index.html#clases-de-apoyo",
+    "href": "teaching/index.html#clases-de-apoyo",
+    "title": "Docencia y recursos",
+    "section": "Clases de apoyo",
+    "text": "Clases de apoyo\nPara conversar sobre clases de apoyo universitario, puedes escribirme a ngulloa@uc.cl."
+  }
+]
